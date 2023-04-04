@@ -1,0 +1,26 @@
+li {
+    color: purple;
+}
+h1 , h2 {
+    color: blue;
+}
+#submit {
+    background-color: green;
+}
+span {
+    color: red;
+}
+.size {
+    color: magenta;
+}
+input[type='email'] {
+    background-color: orange;
+}
+
+h2[class='bright'] {
+    color: cyan;
+}
+[href="http://developer.mozilla.org"] ,
+[href="http://www.wikipedia.org"] {
+color: magenta;
+}
